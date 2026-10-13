@@ -1,0 +1,1 @@
+`verify.js` is the bundled version 0.1.0 source from DefnoJae/Seanime-Verify (`src/verify.js`). Refresh during development using `node build.cjs ../Seanime-Verify`. No runtime helper service or remote code evaluation is used.
